@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!script.js
+!README.md
+
+
+
+
+# ...even if they are in subdirectories
+!*/
